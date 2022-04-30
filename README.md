@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Foysal Ahmed Hridoy</h1>
-<h3 align="center">Graphic Designer</h3>
+<h3 align="center">Graphics Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foysal231&label=Profile%20views&color=0e75b6&style=flat" alt="foysal231" /> </p>
 

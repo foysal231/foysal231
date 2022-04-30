@@ -1,6 +1,6 @@
 ### Hi there 👋, Hey I am Foysal Ahmed Hridoy
 #### Graphics Designer 
-![Graphics Designer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Graphics Designer ](https://github.com/foysal231/foysal231/blob/main/banner.png)
 
 Dedicated , Hardworker 
 

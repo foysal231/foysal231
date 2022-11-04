@@ -8,9 +8,9 @@
 
 Knock me:https://web.facebook.com/aymoy.231/
 
-Skills: C / C++ / Java / JS / HTML / CSS
+Skills: C / C++ / Java / JS / HTML / CSS / Python
  
-- 🌱 I’m currently learning **JS, Python, React**
+- 🌱 I’m currently learning **JS , React**
 
 - 📫 How to reach me **ridoy15-14478@diu.edu.bd**
 

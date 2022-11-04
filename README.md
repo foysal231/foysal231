@@ -1,8 +1,8 @@
-![I am Foysal Ahmed Hridoy]
+
 
 
 <h1 align="center">Hi 👋, I'm Foysal Ahmed Hridoy</h1>
-<h3 align="center">Graphics Designer</h3>
+
 
 ![Profile views](https://gpvc.arturio.dev/foysal231) 
 

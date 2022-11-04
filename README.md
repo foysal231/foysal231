@@ -1,4 +1,4 @@
-![I am Foysal Ahmed Hridoy](https://github.com/foysal231/foysal231/blob/main/banner.png)
+![I am Foysal Ahmed Hridoy]
 
 
 <h1 align="center">Hi 👋, I'm Foysal Ahmed Hridoy</h1>

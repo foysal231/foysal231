@@ -6,7 +6,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/foysal231) 
 
-Knock me:https://web.facebook.com/aymoy.231/
 
 Skills: C / C++ / Java / HTML / CSS / Python / Can make any assignment presentation. If necessary you can knock me.
  

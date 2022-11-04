@@ -8,7 +8,7 @@
 
 Knock me:https://web.facebook.com/aymoy.231/
 
-Skills: C / C++ / Java / JS / HTML / CSS / Python
+Skills: C / C++ / Java / HTML / CSS / Python
  
 - 🌱 I’m currently learning **JS , React**
 

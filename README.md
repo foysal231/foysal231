@@ -11,7 +11,7 @@ Skills: C / C++ / Java / HTML / CSS / Python / Can make any assignment presentat
  
 - 🌱 I’m currently learning **JS , React**
 
-- 📫 How to reach me **ridoy15-14478@diu.edu.bd**
+- 📫 How to reach me **foysalahmedhridoy628@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
